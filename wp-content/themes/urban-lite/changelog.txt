@@ -1,0 +1,38 @@
+Urban Lite Changelog
+---------------------
+
+1.0.11
+----------------------
+* Fixed:  back to top button
+* Add:  sidebar ID
+
+1.0.10
+----------------------
+* Fixed:  jQuery errors
+
+1.0.9
+----------------------
+* Add:    Read more link
+* Removed:Header and tracking codes
+* Removed:Ad management
+* Update: Post excerpt
+
+1.0.8
+----------------------
+* Add:    Editors Choice text editor in admin area
+* Add:    Article arrows
+* Add:    Review (WP Review plugin) support
+* Update: Top section responsiveness
+
+1.0.7
+----------------------
+* Fix:    Removed deprecated function for WP_Widget class and used the __construct() instead as per WordPress 4.3
+* Fix:    Removed modernizer function
+* Fix:    Responsive menu bug
+* Update: Updated scroll to top
+* Update: Translation file
+
+
+1.0.6
+----------------------
+* Initial release

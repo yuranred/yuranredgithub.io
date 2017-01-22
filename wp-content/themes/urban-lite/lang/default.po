@@ -1,0 +1,849 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pressto WordPress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-10-12 14:00+0200\n"
+"PO-Revision-Date: 2015-10-12 14:00+0200\n"
+"Last-Translator: Themes4WP <info@themes4wp.com>\n"
+"Language-Team: czs\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: options\n"
+
+#: 404.php:10
+msgid "Error 404 Not Found"
+msgstr ""
+
+#: 404.php:14
+msgid "Oops! We couldn't find this Page."
+msgstr ""
+
+#: 404.php:15
+msgid "Please check your URL or use the search form below."
+msgstr ""
+
+#: archive.php:8
+msgid "Category: "
+msgstr ""
+
+#: archive.php:10
+msgid "Tag: "
+msgstr ""
+
+#: archive.php:12 search.php:7
+msgid "Search Results for:"
+msgstr ""
+
+#: archive.php:14
+msgid " Archive"
+msgstr ""
+
+#: archive.php:16
+msgid "Daily Archive:"
+msgstr ""
+
+#: archive.php:18
+msgid "Monthly Archive:"
+msgstr ""
+
+#: archive.php:20
+msgid "Yearly Archive:"
+msgstr ""
+
+#: archive.php:56 comments.php:13 functions/widget-tabs.php:138
+#: functions/widget-tabs.php:174 index.php:33 index.php:114 search.php:39
+#: single.php:29
+msgid "No Comments"
+msgstr ""
+
+#: archive.php:56 comments.php:13 functions/widget-tabs.php:138
+#: functions/widget-tabs.php:174 index.php:33 index.php:114 search.php:39
+#: single.php:29
+msgid "One Comment"
+msgstr ""
+
+#: archive.php:56 comments.php:13 index.php:33 index.php:114 search.php:39
+#: single.php:29
+msgid "% Comments"
+msgstr ""
+
+#: archive.php:62 index.php:39 index.php:120 search.php:45
+msgid "Read More &rarr;"
+msgstr ""
+
+#: archive.php:69 index.php:127
+msgid ""
+"No results found. We apologize for any inconvenience, please hit back on "
+"your browser or use the search form below."
+msgstr ""
+
+#: archive.php:77 index.php:135 search.php:60
+msgid "&larr; Older posts"
+msgstr ""
+
+#: archive.php:78 index.php:136 search.php:61
+msgid "Newer posts &rarr;"
+msgstr ""
+
+#: comments.php:8
+msgid "This post is password protected. Enter the password to view comments"
+msgstr ""
+
+#: comments.php:39 comments.php:41
+msgid "Add a Comment"
+msgstr ""
+
+#: comments.php:42
+msgid "Comment:"
+msgstr ""
+
+#: comments.php:46
+msgid "Name"
+msgstr ""
+
+#: comments.php:49
+msgid "Email Address"
+msgstr ""
+
+#: comments.php:52
+msgid "Website"
+msgstr ""
+
+#: functions.php:124
+msgid "Appears on posts and pages"
+msgstr ""
+
+#: functions.php:212
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:212 functions.php:227
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:224
+#, php-format
+msgid "<span class=\"fn\">%s</span>"
+msgstr ""
+
+#: functions.php:235
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:338
+msgid "Home"
+msgstr ""
+
+#: functions.php:339
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#: functions.php:340
+#, php-format
+msgid "Archive for \"%s\""
+msgstr ""
+
+#: functions.php:341
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+
+#: functions.php:342
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: functions.php:343
+#, php-format
+msgid "Articles Posted by %s"
+msgstr ""
+
+#: functions.php:344
+msgid "Error 404"
+msgstr ""
+
+#: functions.php:466
+msgid "Page"
+msgstr ""
+
+#: functions/theme-actions.php:42
+msgid "Copyright &copy; "
+msgstr ""
+
+#: functions/theme-actions.php:45
+#, php-format
+msgid "Theme by %1$s."
+msgstr ""
+
+#: functions/theme-metaboxes.php:34
+msgid "General post options"
+msgstr ""
+
+#: functions/theme-metaboxes.php:40
+msgid "Show author"
+msgstr ""
+
+#: functions/theme-metaboxes.php:41
+msgid "Show or hide author"
+msgstr ""
+
+#: functions/theme-metaboxes.php:47 functions/widget-tabs.php:41
+#: functions/widget-tabs.php:65
+msgid "Show date"
+msgstr ""
+
+#: functions/theme-metaboxes.php:48
+msgid "Show or hide date"
+msgstr ""
+
+#: functions/theme-metaboxes.php:54
+msgid "Show comments"
+msgstr ""
+
+#: functions/theme-metaboxes.php:55
+msgid "Show or hide comments"
+msgstr ""
+
+#: functions/theme-metaboxes.php:61
+msgid "Show categories"
+msgstr ""
+
+#: functions/theme-metaboxes.php:62
+msgid "Show or hide categories"
+msgstr ""
+
+#: functions/theme-metaboxes.php:68
+msgid "Show views"
+msgstr ""
+
+#: functions/theme-metaboxes.php:69
+msgid "Show or hide views"
+msgstr ""
+
+#: functions/theme-metaboxes.php:75
+msgid "Show Thumbnail/Video"
+msgstr ""
+
+#: functions/theme-metaboxes.php:76
+msgid "This option show or hide Thumbnail/Video above title."
+msgstr ""
+
+#: functions/theme-metaboxes.php:87
+msgid "Video Settings"
+msgstr ""
+
+#: functions/theme-metaboxes.php:91
+msgid "Video Type"
+msgstr ""
+
+#: functions/theme-metaboxes.php:94
+msgid "Select Type"
+msgstr ""
+
+#: functions/theme-metaboxes.php:102
+msgid "Video ID"
+msgstr ""
+
+#: functions/theme-metaboxes.php:104
+msgid "Add Video ID (example: 5ESHJKat6ds)"
+msgstr ""
+
+#: functions/widget-ad125.php:25
+msgid "A widget for 125 x 125 ad unit (max 6 ads)"
+msgstr ""
+
+#: functions/widget-ad125.php:36
+msgid "125x125 Ads"
+msgstr ""
+
+#: functions/widget-ad125.php:174
+msgid "Our Sponzors"
+msgstr ""
+
+#: functions/widget-ad125.php:194 functions/widget-ad300.php:110
+#: functions/widget-comments-avatar.php:44 functions/widget-subscribe.php:116
+msgid "Title:"
+msgstr ""
+
+#: functions/widget-ad125.php:200
+msgid "Ad 1 image url:"
+msgstr ""
+
+#: functions/widget-ad125.php:206
+msgid "Ad 1 link url:"
+msgstr ""
+
+#: functions/widget-ad125.php:212
+msgid "Ad 2 image url:"
+msgstr ""
+
+#: functions/widget-ad125.php:218
+msgid "Ad 2 link url:"
+msgstr ""
+
+#: functions/widget-ad125.php:224
+msgid "Ad 3 image url:"
+msgstr ""
+
+#: functions/widget-ad125.php:230
+msgid "Ad 3 link url:"
+msgstr ""
+
+#: functions/widget-ad125.php:236
+msgid "Ad 4 image url:"
+msgstr ""
+
+#: functions/widget-ad125.php:242
+msgid "Ad 4 link url:"
+msgstr ""
+
+#: functions/widget-ad125.php:248
+msgid "Ad 5 image url:"
+msgstr ""
+
+#: functions/widget-ad125.php:254
+msgid "Ad 5 link url:"
+msgstr ""
+
+#: functions/widget-ad125.php:260
+msgid "Ad 6 image url:"
+msgstr ""
+
+#: functions/widget-ad125.php:266
+msgid "Ad 6 link url:"
+msgstr ""
+
+#: functions/widget-ad125.php:272
+msgid "Randomize ads order?"
+msgstr ""
+
+#: functions/widget-ad300.php:25
+msgid "A widget for 300 x 250 ad (Single banner)"
+msgstr ""
+
+#: functions/widget-ad300.php:36
+msgid "300x250 Ad"
+msgstr ""
+
+#: functions/widget-ad300.php:116
+msgid "Ad image url:"
+msgstr ""
+
+#: functions/widget-ad300.php:122
+msgid "Ad link url:"
+msgstr ""
+
+#: functions/widget-comments-avatar.php:9
+msgid "Display comments with avatar."
+msgstr ""
+
+#: functions/widget-comments-avatar.php:11
+msgid "Recent Comments with avatar"
+msgstr ""
+
+#: functions/widget-comments-avatar.php:40
+msgid "Recent Comments"
+msgstr ""
+
+#: functions/widget-comments-avatar.php:48
+msgid "Number of comments to show:"
+msgstr ""
+
+#: functions/widget-subscribe.php:32
+msgid "Feedburner Subscription Widget."
+msgstr ""
+
+#: functions/widget-subscribe.php:38
+msgid "Subscribe Widget"
+msgstr ""
+
+#: functions/widget-subscribe.php:67
+msgid "Your email Address"
+msgstr ""
+
+#: functions/widget-subscribe.php:68
+msgid "Subscribe"
+msgstr ""
+
+#: functions/widget-subscribe.php:122
+msgid "Feedburner id (http://feeds.feedburner.com/<b>your ID</b>):"
+msgstr ""
+
+#: functions/widget-tabs.php:12
+msgid "Display the popular Posts and Latest Posts in tabbed format"
+msgstr ""
+
+#: functions/widget-tabs.php:14
+msgid "Tab Widget"
+msgstr ""
+
+#: functions/widget-tabs.php:28
+msgid "Number of popular posts to show:"
+msgstr ""
+
+#: functions/widget-tabs.php:34 functions/widget-tabs.php:58
+msgid "Show Thumbnails"
+msgstr ""
+
+#: functions/widget-tabs.php:48 functions/widget-tabs.php:72
+msgid "Show number of comments"
+msgstr ""
+
+#: functions/widget-tabs.php:52
+msgid "Number of latest posts to show:"
+msgstr ""
+
+#: functions/widget-tabs.php:106
+msgid "Popular Posts"
+msgstr ""
+
+#: functions/widget-tabs.php:107
+msgid "Recent Posts"
+msgstr ""
+
+#: functions/widget-tabs.php:138 functions/widget-tabs.php:174
+#: theme-options.php:337
+msgid "Comments"
+msgstr ""
+
+#: header.php:26 searchform.php:3
+msgid "Search the site"
+msgstr ""
+
+#: header.php:64
+msgid "Menu"
+msgstr ""
+
+#: page-nosidebar.php:18 page.php:15 single.php:38
+msgid "Next"
+msgstr ""
+
+#: page-nosidebar.php:18 page.php:15 single.php:38
+msgid "Previous"
+msgstr ""
+
+#: search.php:52
+msgid ""
+"No Results found. We apologize for any inconvenience, please hit back on "
+"your browser or use the search form below."
+msgstr ""
+
+#: searchform.php:4 sidebar.php:6
+msgid "Search"
+msgstr ""
+
+#: sidebar.php:12
+msgid "Archives"
+msgstr ""
+
+#: sidebar.php:20
+msgid "Meta"
+msgstr ""
+
+#: single.php:23
+msgid "Author: "
+msgstr ""
+
+#: single.php:27
+msgid "in "
+msgstr ""
+
+#: single.php:41 theme-options.php:209 theme-options.php:403
+msgid "Tags"
+msgstr ""
+
+#: single.php:51 theme-options.php:410
+msgid "Related posts"
+msgstr ""
+
+#: single.php:80
+msgid "About Author "
+msgstr ""
+
+#: theme-options.php:111
+msgid "Section via hook"
+msgstr ""
+
+#: theme-options.php:112
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: theme-options.php:190
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: theme-options.php:207
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: theme-options.php:208
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: theme-options.php:214
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: theme-options.php:214
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: theme-options.php:238
+msgid "General Settings"
+msgstr ""
+
+#: theme-options.php:263
+msgid "Logo/Title spacing"
+msgstr ""
+
+#: theme-options.php:264
+msgid "Set spacing of Logo or theme Title."
+msgstr ""
+
+#: theme-options.php:270
+msgid "Favicon"
+msgstr ""
+
+#: theme-options.php:271
+msgid ""
+"Upload a <strong>16 x 16 px</strong> image that will represent your "
+"website's favicon."
+msgstr ""
+
+#: theme-options.php:279
+msgid "Breadcrumbs"
+msgstr ""
+
+#: theme-options.php:280
+msgid "<strong>Enable or Disable</strong> breadcrumbs."
+msgstr ""
+
+#: theme-options.php:286
+msgid "Slider"
+msgstr ""
+
+#: theme-options.php:287
+msgid ""
+"<strong>Enable or Disable</strong> Slider on Homepage. This feature enable "
+"\"Editors Choice\" too. Select the category for this feature below."
+msgstr ""
+
+#: theme-options.php:295
+msgid "Select Categories for Slider"
+msgstr ""
+
+#: theme-options.php:303
+msgid "Select Categories for Editors Choice"
+msgstr ""
+
+#: theme-options.php:309
+msgid "Editors Choice title"
+msgstr ""
+
+#: theme-options.php:317
+msgid "Editors Choice description"
+msgstr ""
+
+#: theme-options.php:325
+msgid "Homepage title length"
+msgstr ""
+
+#: theme-options.php:326
+msgid "How many letters you want to display. Default value: 40"
+msgstr ""
+
+#: theme-options.php:335
+msgid "HomePage Post Meta Info"
+msgstr ""
+
+#: theme-options.php:336
+msgid ""
+"Use this button to Show or Hide Post Meta Info on HomePage. (<strong>Author "
+"name, Date etc.</strong>)."
+msgstr ""
+
+#: theme-options.php:337
+msgid "Author Name"
+msgstr ""
+
+#: theme-options.php:337
+msgid "Categories"
+msgstr ""
+
+#: theme-options.php:343
+msgid "Pagination"
+msgstr ""
+
+#: theme-options.php:344
+msgid "Set paginated navigation links."
+msgstr ""
+
+#: theme-options.php:346
+msgid "Next / Previous"
+msgstr ""
+
+#: theme-options.php:355
+msgid "Styling Settings"
+msgstr ""
+
+#: theme-options.php:369
+msgid "Body Background"
+msgstr ""
+
+#: theme-options.php:370
+msgid "Body background with image, color, etc."
+msgstr ""
+
+#: theme-options.php:378
+msgid "Responsiveness"
+msgstr ""
+
+#: theme-options.php:379
+msgid "<strong>Enable or Disable</strong> template responsiveness."
+msgstr ""
+
+#: theme-options.php:390
+msgid "Single Page Options"
+msgstr ""
+
+#: theme-options.php:404
+msgid "<strong>Enable or Disable</strong> Tags."
+msgstr ""
+
+#: theme-options.php:411
+msgid "<strong>Enable or Disable</strong> Related posts."
+msgstr ""
+
+#: theme-options.php:417
+msgid "Author Box"
+msgstr ""
+
+#: theme-options.php:418
+msgid "<strong>Enable or Disable</strong> Author Box."
+msgstr ""
+
+#: theme-options.php:433
+msgid "Ad management"
+msgstr ""
+
+#: theme-options.php:434
+msgid ""
+"<p class=\"description\">Ad management is easy with our options panel.</p>"
+msgstr ""
+
+#: theme-options.php:448
+msgid "Colors"
+msgstr ""
+
+#: theme-options.php:462
+msgid "Typography"
+msgstr ""
+
+#: theme-options.php:475
+msgid "General font"
+msgstr ""
+
+#: theme-options.php:491
+msgid "Select the general font used in the theme."
+msgstr ""
+
+#: theme-options.php:504
+msgid "Header Logo"
+msgstr ""
+
+#: theme-options.php:520
+msgid "Select the type to use for the logo font."
+msgstr ""
+
+#: theme-options.php:533
+msgid "Site description"
+msgstr ""
+
+#: theme-options.php:549
+msgid "Select the type to use for the description font."
+msgstr ""
+
+#: theme-options.php:562
+msgid "Primary Menu"
+msgstr ""
+
+#: theme-options.php:578
+msgid "Select the type to use for the menu font."
+msgstr ""
+
+#: theme-options.php:591
+msgid "Single/Page Title"
+msgstr ""
+
+#: theme-options.php:607
+msgid "Select the type to use for single or page title."
+msgstr ""
+
+#: theme-options.php:620
+msgid "Sidebar Title"
+msgstr ""
+
+#: theme-options.php:636
+msgid "Select the type to use for Sidebar title."
+msgstr ""
+
+#: theme-options.php:649
+msgid "Headings 1 font "
+msgstr ""
+
+#: theme-options.php:665
+msgid "Select the type to use for the h1."
+msgstr ""
+
+#: theme-options.php:678
+msgid "Headings 2 font "
+msgstr ""
+
+#: theme-options.php:694
+msgid "Select the type to use for the h2."
+msgstr ""
+
+#: theme-options.php:707
+msgid "Headings 3 font "
+msgstr ""
+
+#: theme-options.php:723
+msgid "Select the type to use for the h3."
+msgstr ""
+
+#: theme-options.php:736
+msgid "Headings 4 font "
+msgstr ""
+
+#: theme-options.php:752
+msgid "Select the type to use for the h4."
+msgstr ""
+
+#: theme-options.php:765
+msgid "Headings 5 font "
+msgstr ""
+
+#: theme-options.php:781
+msgid "Select the type to use for the h5."
+msgstr ""
+
+#: theme-options.php:794
+msgid "Headings 6 font "
+msgstr ""
+
+#: theme-options.php:810
+msgid "Select the type to use for the h6."
+msgstr ""
+
+#: theme-options.php:826
+msgid "Social Buttons"
+msgstr ""
+
+#: theme-options.php:827
+msgid ""
+"Enable or disable social sharing buttons on homepage using these buttons."
+msgstr ""
+
+#: theme-options.php:832
+msgid "Facebook"
+msgstr ""
+
+#: theme-options.php:833
+msgid "Your Facebook URL"
+msgstr ""
+
+#: theme-options.php:840
+msgid "Twitter"
+msgstr ""
+
+#: theme-options.php:841
+msgid "Your Twitter URL"
+msgstr ""
+
+#: theme-options.php:848
+msgid "Pinterest"
+msgstr ""
+
+#: theme-options.php:849
+msgid "Your Pinterest URL"
+msgstr ""
+
+#: theme-options.php:856
+msgid "Google+"
+msgstr ""
+
+#: theme-options.php:857
+msgid "Your Google+ URL"
+msgstr ""
+
+#: theme-options.php:864
+msgid "Linked In"
+msgstr ""
+
+#: theme-options.php:865
+msgid "Your Linked In URL"
+msgstr ""
+
+#: theme-options.php:872
+msgid "RSS"
+msgstr ""
+
+#: theme-options.php:873
+msgid "Your RSS URL"
+msgstr ""
+
+#: theme-options.php:880
+msgid "Flickr"
+msgstr ""
+
+#: theme-options.php:881
+msgid "Your Flickr URL"
+msgstr ""
+
+#: theme-options.php:894
+msgid "Theme Information"
+msgstr ""
+
+#: theme-options.php:895
+msgid "<p class=\"description\">Urban / Blog WordPress Theme</p>"
+msgstr ""
+
+#: theme-options.php:906
+msgid "Urban Pro"
+msgstr ""
+
+#: theme-options.php:907
+msgid "Urban Pro Features"
+msgstr ""
+
+#: theme-options.php:919
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: theme-options.php:920
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: theme-options.php:921
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: theme-options.php:925
+msgid "<strong>Tags:</strong> "
+msgstr ""
